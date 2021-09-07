@@ -1,0 +1,31 @@
+C:\Users\leandro\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\leandro\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\leandro\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\leandro\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojResolveAssemblyReference.cache
+C:\Users\leandro\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\leandro\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\leandro\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.Cache
+C:\Users\leandro\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\leandro\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\leandro\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\leandro\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\BaseDeDatos.Form1.resources
+C:\Users\Usuario\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\BaseDeDatos.Form1.resources
+C:\Users\Usuario\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Usuario\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\Usuario\source\repos\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\Usuario\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\Usuario\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\Usuario\source\repos\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\obj\Debug\BaseDeDatos.Form1.resources
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.Cache
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\bin\Debug\Oracle.DataAccess.dll

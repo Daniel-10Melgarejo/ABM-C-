@@ -1,0 +1,10 @@
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\bin\x64\Debug\WindowsFormsApp12.exe.config
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\bin\x64\Debug\WindowsFormsApp12.exe
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\bin\x64\Debug\WindowsFormsApp12.pdb
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\obj\x64\Debug\BaseDeDatos.Form1.resources
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\obj\x64\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\obj\x64\Debug\WindowsFormsApp12.csproj.GenerateResource.Cache
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\obj\x64\Debug\WindowsFormsApp12.exe
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\obj\x64\Debug\WindowsFormsApp12.pdb
+C:\Users\Daniel Melgarejo\Documents\Nueva carpeta\ABMSencillo-master\WindowsFormsApp12\obj\x64\Debug\WindowsFormsApp12.csprojResolveAssemblyReference.cache
